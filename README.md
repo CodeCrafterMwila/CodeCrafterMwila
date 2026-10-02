@@ -61,3 +61,4 @@
 ⭐ *“Crafting code, shaping data, and building solutions that matter.”*
 ![Profile Views](https://komarev.com/ghpvc/?username=CodeCrafterMwila&color=blue)
 ![Snake animation](https://github.com/CodeCrafterMwila/CodeCrafterMwila/blob/main/dist/snake.svg)
+
