@@ -59,6 +59,7 @@
 ---
 
 ⭐ *“Crafting code, shaping data, and building solutions that matter.”*
+![Made with ❤️ by CodeCrafterMwila](https://img.shields.io/badge/Made%20with%20❤️-CodeCrafterMwila-blue?style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=CodeCrafterMwila&color=blue)
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeCrafterMwila&theme=radical)
 
