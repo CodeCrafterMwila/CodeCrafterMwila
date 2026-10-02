@@ -1,4 +1,6 @@
 ![CodeCrafterMwila Banner](https://github.com/CodeCrafterMwila/CodeCrafterMwila/blob/main/banner.png)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&width=435&lines=Data+Scientist;Web+Developer;AI+Explorer;C%2FC%2B%2B+%26+Java+Programmer)](https://git.io/typing-svg)
+
 # 👋 Hi, I'm CodeCrafterMwila
 
 💻 **Data Scientist | Web Developer | AI Explorer**  
@@ -53,6 +55,8 @@
 ![CodeCrafterMwila's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeCrafterMwila&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCrafterMwila&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeCrafterMwila&theme=radical)
+![CodeCrafterMwila Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeCrafterMwila&theme=radical)
+
 
 ---
 
