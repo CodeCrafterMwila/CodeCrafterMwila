@@ -55,7 +55,6 @@
 ![CodeCrafterMwila's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeCrafterMwila&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCrafterMwila&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeCrafterMwila&theme=radical)
-![CodeCrafterMwila Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=CodeCrafterMwila&theme=github)
 
 
 
