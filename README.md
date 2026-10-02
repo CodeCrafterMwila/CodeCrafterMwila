@@ -55,9 +55,9 @@
 ![CodeCrafterMwila's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeCrafterMwila&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCrafterMwila&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeCrafterMwila&theme=radical)
-![Snake animation](https://github.com/CodeCrafterMwila/CodeCrafterMwila/blob/main/dist/snake.svg)
 
 ---
 
 ⭐ *“Crafting code, shaping data, and building solutions that matter.”*
 ![Profile Views](https://komarev.com/ghpvc/?username=CodeCrafterMwila&color=blue)
+![Snake animation](https://github.com/CodeCrafterMwila/CodeCrafterMwila/blob/main/dist/snake.svg)
