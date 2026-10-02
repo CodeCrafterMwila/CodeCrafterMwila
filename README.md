@@ -59,6 +59,7 @@
 
 
 
+![Snake animation](https://github.com/CodeCrafterMwila/CodeCrafterMwila/blob/main/dist/snake.svg)
 
 ---
 
