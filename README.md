@@ -21,9 +21,24 @@ I enjoy exploring how technology can solve real-world problems, from developing 
 
 🚀 Featured Projects
 
-👟 AI Shoe Classification System
+- 🔭 **Current Focus:** Full-stack Python data apps, machine learning, and agricultural tech solutions like **[Poultry360](https://github.com/CodeCrafterMwila/Poultry360)**.
 
-My featured machine learning project
+🐔 Poultry360 | Smart Broiler Farm Management
+
+A professional, data-driven broiler farm management and analytics web application tailored for agricultural operations.
+
+- 📊 Real-time farm performance dashboards tracking active batches and mortality rates.
+- 📥 Excel workbook import & automated parsing into a secure SQLite relational database.
+- 💊 Flock management, daily records, and health/vaccination schedule tracking.
+- 📈 Advanced analytics including automated Feed Conversion Ratio (FCR) tracking and financial ledgers.
+- 🌐 Interactive Streamlit dark-mode web application.
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/CodeCrafterMwila/Poultry360)
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://poultry360-qquyigp7gl2igzqjwiemn9.streamlit.app/)
+
+---
+
+👟 AI Shoe Classification System
 
 An image classification application powered by MobileNetV3 Small and PyTorch, capable of identifying 10 different shoe categories.
 
@@ -35,8 +50,8 @@ An image classification application powered by MobileNetV3 Small and PyTorch, ca
 
 Test accuracy: 75.22%
 
-""GitHub Repository" (https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)" (https://github.com/CodeCrafterMwila/ICD311_Shoe_Classifier)
-""Live Demo" (https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)" (https://codecraftermwila-icd311-shoe-classifier-app-ii3pgz.streamlit.app/)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/CodeCrafterMwila/ICD311_Shoe_Classifier)
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://codecraftermwila-icd311-shoe-classifier-app-ii3pgz.streamlit.app/)
 
 ---
 
@@ -100,7 +115,7 @@ I'm always interested in connecting with fellow developers, data enthusiasts and
   </a>  <a href="https://wa.me/260775577858">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>  <a href="https://github.com/CodeCrafterMwila">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://github.com/CodeCrafterMwila" alt="GitHub" />
   </a><br/><br/>
 
 📧 mwilasingoma@gmail.com
