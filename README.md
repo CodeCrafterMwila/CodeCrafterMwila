@@ -1,4 +1,4 @@
-👋 Hey, I'm CodeCrafterMwila!
+👋 Hey, I'm Mwila Singoma (CodeCrafterMwila)
 
 <div align="center">  <img src="https://raw.githubusercontent.com/CodeCrafterMwila/CodeCrafterMwila/main/Banner.png" width="100%" alt="CodeCrafterMwila GitHub Banner" />  <br/>  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Science+Student;Machine+Learning+Enthusiast;AI+%26+Deep+Learning+Explorer;Web+Developer;Building+Ideas+Into+Reality" alt="Typing SVG" />
