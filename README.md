@@ -1,22 +1,24 @@
-👋 Hey, I'm Mwila Singoma (CodeCrafterMwila)
+# 👋 Hey, I'm Mwila Singoma (CodeCrafterMwila)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/CodeCrafterMwila/CodeCrafterMwila/main/Banner.png" width="100%" alt="CodeCrafterMwila GitHub Banner" />
   <br/>
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Science+Student;Machine+Learning+Enthusiast;AI+%26+Deep+Learning+Explorer;Web+Developer;Building+Ideas+Into+Reality" alt="Typing SVG" />
   </a>
   <br/>
+
   <img src="https://komarev.com/ghpvc/?username=CodeCrafterMwila&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile views" />
 </div>
 
 ---
 
-🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 I'm a Bachelor of Data Science student at Mulungushi University, Zambia, passionate about technology, data, artificial intelligence and building practical software solutions.
 
-I enjoy exploring how technology can solve real-world problems, from developing machine learning models to creating interactive applications.
+I enjoy exploring how technology can solve real-world problems, from developing machine learning models to creating interactive applications and data-driven systems.
 
 - 🎓 Studying Data Science at Mulungushi University.
 - 🤖 Exploring Machine Learning, Deep Learning and Artificial Intelligence.
@@ -27,98 +29,143 @@ I enjoy exploring how technology can solve real-world problems, from developing 
 
 ---
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-- 🔭 **Current Focus:** Full-stack Python data apps, machine learning, and agricultural tech solutions like **[Poultry360](https://github.com/CodeCrafterMwila/Poultry360)**.
+### 🌽 ICD341 | Zambia Maize Production Analysis & Visualization
 
-🐔 Poultry360 | Smart Broiler Farm Management
+A statistical computing and data visualization project investigating Zambia's maize production trends from 1961 to 2024 using FAOSTAT data.
 
-A professional, data-driven broiler farm management and analytics web application tailored for agricultural operations.
+The project combines statistical analysis, regression modelling, structural break detection and an interactive dashboard to explore long-term agricultural production patterns.
 
-- 📊 Real-time farm performance dashboards tracking active batches and mortality rates.
-- 📥 Excel workbook import & automated parsing into a secure SQLite relational database.
-- 💊 Flock management, daily records, and health/vaccination schedule tracking.
-- 📈 Advanced analytics including automated Feed Conversion Ratio (FCR) tracking and financial ledgers.
-- 🌐 Interactive Streamlit dark-mode web application.
+**Key Features:**
+- 📊 Historical analysis of maize production, harvested area and yield.
+- 📈 Descriptive statistics, correlation analysis and data visualization.
+- 🧮 Linear and segmented regression modelling.
+- 🔍 Structural break detection using Sup-F testing and dependent wild bootstrap.
+- 🧪 Regression diagnostics and sensitivity analysis.
+- 🌐 Interactive Streamlit dashboard with Plotly visualizations.
+- 📥 Downloadable datasets and statistical analysis results.
+- ♻️ Reproducible data cleaning and analysis workflow.
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/CodeCrafterMwila/Poultry360)
-[![Live Demo](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://poultry360-k332hcaev4qtt39c7cmjka.streamlit.app/)
+**Dataset:** 64 annual observations covering 1961–2024.
+
+**Technologies:** Python, Pandas, NumPy, SciPy, Statsmodels, Matplotlib, Plotly and Streamlit.
+
+<div align="left">
+  <a href="https://github.com/CodeCrafterMwila/ICD341">
+    <img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github" alt="GitHub Repository" />
+  </a>
+  <a href="https://icd341-eueul3juynymiza3nhhaev.streamlit.app/">
+    <img src="https://img.shields.io/badge/Streamlit-Live_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Dashboard" />
+  </a>
+</div>
 
 ---
 
-👟 AI Shoe Classification System
+### 🐔 Poultry360 | Smart Broiler Farm Management
+
+A professional, data-driven broiler farm management and analytics web application tailored for agricultural operations.
+
+**Key Features:**
+- 📊 Farm performance dashboards tracking active batches and mortality rates.
+- 📥 Excel workbook import and automated parsing into a SQLite relational database.
+- 🐔 Flock management, daily records and health/vaccination schedule tracking.
+- 📈 Advanced analytics including automated Feed Conversion Ratio (FCR) tracking and financial ledgers.
+- 🌐 Interactive Streamlit dark-mode web application.
+
+<div align="left">
+  <a href="https://github.com/CodeCrafterMwila/Poultry360">
+    <img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github" alt="GitHub Repository" />
+  </a>
+  <a href="https://poultry360-k332hcaev4qtt39c7cmjka.streamlit.app/">
+    <img src="https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" />
+  </a>
+</div>
+
+---
+
+### 👟 AI Shoe Classification System
 
 An image classification application powered by MobileNetV3 Small and PyTorch, capable of identifying 10 different shoe categories.
 
+**Key Features:**
 - 🧠 Transfer learning and fine-tuning.
 - 📸 Image upload and camera-based predictions.
 - 📊 Confidence scores and prediction results.
 - ⚡ GPU-accelerated model training.
 - 🌐 Interactive Streamlit web application.
 
-Test accuracy: 75.22%
+**Test Accuracy:** 75.22%
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github)](https://github.com/CodeCrafterMwila/ICD311_Shoe_Classifier)
-[![Live Demo](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://codecraftermwila-icd311-shoe-classifier-app-ii3pgz.streamlit.app/)
+<div align="left">
+  <a href="https://github.com/CodeCrafterMwila/ICD311_Shoe_Classifier">
+    <img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github" alt="GitHub Repository" />
+  </a>
+  <a href="https://codecraftermwila-icd311-shoe-classifier-app-ii3pgz.streamlit.app/">
+    <img src="https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" />
+  </a>
+</div>
 
 ---
 
-📊 Data Science & Analytics
+## 💡 Areas of Interest
 
-Exploring statistical computing, data analysis, visualization and extracting useful insights from datasets using Python and R.
+### 📊 Data Science & Analytics
+Exploring statistical computing, data analysis, visualization and extracting meaningful insights from datasets using Python and R.
 
-🌐 Web Development
-
+### 🌐 Web Development
 Building responsive web interfaces and experimenting with front-end and back-end technologies.
 
-🤖 AI & Machine Learning
-
+### 🤖 AI & Machine Learning
 Experimenting with neural networks, computer vision, model development and practical AI applications.
 
 ---
 
-🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 
-Programming Languages
+### Programming Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,r,java,c,cpp,js" alt="Programming languages" />
 </p>
 
-Data Science & Machine Learning
+### Data Science & Machine Learning
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,numpy,pandas,sklearn" alt="Data science tools" />
 </p>
 
-Web Development
+### Web Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,streamlit" alt="Web development tools" />
 </p>
 
-Development Tools
+### Development Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,linux" alt="Development tools" />
 </p>
 
-Other interests: SQL, statistical computing, PC hardware and system optimization.
+**Other interests:** SQL, statistical computing, PC hardware and system optimization.
 
 ---
 
-📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeCrafterMwila&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub statistics" />
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCrafterMwila&layout=compact&theme=tokyonight&hide_border=true" alt="Top programming languages" />
+
   <br/>
+
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeCrafterMwila&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
 ---
 
-🎯 Beyond Coding
+## 🎯 Beyond Coding
 
 When I'm not coding, I'm probably:
 
@@ -129,7 +176,7 @@ When I'm not coding, I'm probably:
 
 ---
 
-📫 Let's Connect!
+## 📫 Let's Connect!
 
 I'm always interested in connecting with fellow developers, data enthusiasts and technology lovers.
 
@@ -137,28 +184,32 @@ I'm always interested in connecting with fellow developers, data enthusiasts and
   <a href="mailto:mwilasingoma@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
   <a href="https://wa.me/260775577858">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
+
   <a href="https://github.com/CodeCrafterMwila">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+
   <br/><br/>
 
-📧 mwilasingoma@gmail.com
+  📧 **mwilasingoma@gmail.com**
 
-📍 Zambia 🇿🇲
-
+  📍 Zambia 🇿🇲
 </div>
 
 ---
 
 <div align="center">
-💡 My Philosophy
 
-"Crafting code, shaping data, and building solutions that matter."
+### 💡 My Philosophy
+
+*"Crafting code, shaping data, and building solutions that matter."*
 
 Thanks for visiting my profile! ⭐
 
-  <img src="https://img.shields.io/badge/Made%20with-❤️-blue?style=for-the-badge" alt="Made with love" />
+<img src="https://img.shields.io/badge/Made%20with-❤️-blue?style=for-the-badge" alt="Made with love" />
+
 </div>
